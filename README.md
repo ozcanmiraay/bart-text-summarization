@@ -114,14 +114,14 @@ curl -X POST http://localhost:8000/summarize \
 **Input:**
 ```json
 {
-  "text": "President Obama held a press conference today..."
+  "text": "The United Nations has launched a new global initiative aimed at tackling climate change through renewable energy investments. Secretary-General António Guterres announced the plan during a high-level summit, urging countries to triple their clean energy funding by 2030."
 }
 ```
 
 **Response:**
 ```json
 {
-  "summary": "Obama held a press conference to address the issue."
+  "summary": "The UN launched a climate initiative urging countries to triple renewable energy funding by 2030."
 }
 ```
 
