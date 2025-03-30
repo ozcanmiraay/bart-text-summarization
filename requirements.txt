@@ -1,0 +1,11 @@
+transformers
+torch
+datasets
+sentencepiece
+numpy
+pandas
+scikit-learn
+mlflow
+fastapi
+uvicorn
+flask
