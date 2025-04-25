@@ -1,4 +1,4 @@
-transformers
+transformers==4.40.0
 torch
 datasets
 sentencepiece
@@ -9,3 +9,10 @@ mlflow
 fastapi
 uvicorn
 flask
+evaluate
+accelerate==0.27.2
+rouge_score
+absl-py
+nltk
+tabulate
+textstat
